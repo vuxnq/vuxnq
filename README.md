@@ -7,7 +7,7 @@
                                       \ \_\
                                        \/_/
 ```
-<br>
+<br />
 ```
 #vuxnq {
   position: Czechia;
