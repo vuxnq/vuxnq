@@ -7,12 +7,3 @@
                                       \ \_\
                                        \/_/
 ```
-
-```css
-#vuxnq {
-  position: Czechia;
-  display: male;
-  color: yellow;
-  visibility: hidden;
-}
-```
